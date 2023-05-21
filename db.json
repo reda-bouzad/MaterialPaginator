@@ -1,0 +1,47 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "userId": 101,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "name": "Carol"
+    },
+    {
+      "id": 4,
+      "userId": 104,
+      "name": "Rae"
+    },
+    {
+      "id": 5,
+      "userId": 105,
+      "name": "Elise"
+    },
+    {
+      "id": 6,
+      "userId": 106,
+      "name": "Kata"
+    },
+    {
+      "id": 7,
+      "userId": 107,
+      "name": "Lux"
+    },
+    {
+      "id": 8,
+      "userId": 108,
+      "name": "Diva"
+    }
+
+
+
+  ]
+}
